@@ -4,7 +4,7 @@ Este repositório contém o banco de dados completo do sistema FitPower, desenvo
 
  Conteúdo do Repositório
 
-fitpower.sql — criação do banco, tabelas, FKs, INSERTs, SELECTs, UPDATEs e DELETEs.
+fitpower_bd.sql — criação do banco, tabelas, FKs, INSERTs, SELECTs, UPDATEs e DELETEs.
 
 README.md — informações do projeto.
 
