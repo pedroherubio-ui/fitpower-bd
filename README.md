@@ -34,7 +34,7 @@ O modelo lógico foi revisado e normalizado:
 3FN: sem dependência transitiva
 O DER inclui as entidades principais: Aluno, Instrutor, Plano, Modalidade, Treino e Aula.
 
-🛠️ Ferramentas Utilizadas
+Ferramentas Utilizadas
 
 MySQL Server 8.x
 
